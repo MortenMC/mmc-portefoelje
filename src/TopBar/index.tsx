@@ -1,6 +1,6 @@
 import React from 'react';
 
-import {TopBarBackground, TopBarView, TopBarButton} from './Styled'
+import {TopBarBackground, TopBarView, TopBarButton} from './Styled';
 
 class TopBar extends React.Component {
     render() {

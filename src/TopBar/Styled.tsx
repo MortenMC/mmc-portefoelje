@@ -14,7 +14,7 @@ export const TopBarView = styled.div`
     justify-content: space-between;
 `;
 
-export const TopBarButton = styled. div`
+export const TopBarButton = styled.div`
     display: flex;
     border-radius: 25px;
     background: #555555;
